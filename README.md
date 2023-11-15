@@ -1,0 +1,1 @@
+John wants to travel to Taiwan, South Korea and Japan but he needs to know the currency exchange for those respective countrys to sort of estimate how much money he can bring over after the exchange. John budget a total of Rm3,000 for food and entertainment expenses.
