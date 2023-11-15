@@ -3,5 +3,5 @@ function convert_myr_to_twd(myr) {
 }
 
 
-var twd = convert_myr_to_twd(5);
+var twd = convert_myr_to_twd(1000);
 console.log('The currency in TWD is : ', twd);
